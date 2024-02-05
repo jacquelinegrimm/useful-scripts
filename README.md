@@ -4,6 +4,10 @@ Welcome to the "Miscellaneous Useful Scripts" repository. This repository contai
 
 ## Scripts
 
+### convert_to_binary.ipynb
+
+`convert_to_binary.ipynb` is a short Jupyter notebook that creates a binary image by thresholding pixel values, displaying the image before and after conversion.
+
 ### num_name.py
 
 `num_name.py` is a Python script that can be used to rename files in a folder numerically.
